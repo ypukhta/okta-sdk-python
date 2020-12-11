@@ -56,7 +56,7 @@ If you run into problems using the SDK, you can
 To install the Okta Python SDK in your project:
 
 ```sh
-pip install okta
+pip install exos-okta
 ```
 
 You'll also need
