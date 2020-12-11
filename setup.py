@@ -19,7 +19,7 @@ def get_requirements():
 
 
 setup(
-    name="okta",
+    name="exos-okta",
     version=get_version(),
     author="Okta, Inc.",
     author_email="devex@okta.com",
